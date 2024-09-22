@@ -31,3 +31,8 @@ input {
 .footer {
   display: flex;
 }
+
+ul {
+  display: flex;
+  list-style-type: none;
+}
