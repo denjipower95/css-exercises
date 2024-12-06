@@ -58,3 +58,8 @@ a {
 .footer {
   background-color: #eeeeee;
 }
+
+img,
+.input {
+  margin-bottom: 16px;
+}
