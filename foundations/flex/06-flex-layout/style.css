@@ -30,3 +30,9 @@ input {
 .content {
   flex-grow: 1;
 }
+
+.header,
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
