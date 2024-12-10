@@ -57,4 +57,5 @@ a {
   padding: 48px;
   display: flex;
   flex-wrap: wrap;
+  gap: 32px;
 }
