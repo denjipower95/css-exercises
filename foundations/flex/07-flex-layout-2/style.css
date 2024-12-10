@@ -50,3 +50,9 @@ a {
   color: rgb(255, 255, 255);
   text-decoration: none;
 }
+
+.content {
+  padding: 48px;
+  display: flex;
+  flex-wrap: wrap;
+}
